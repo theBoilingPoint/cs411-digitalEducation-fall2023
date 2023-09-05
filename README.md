@@ -2,6 +2,9 @@
 
 This repository is for the Jupyter Notebook materials for [_CS411 Digital Education_](https://edu.epfl.ch/coursebook/en/digital-education-CS-411) at EPFL.
 
+If you want to take a look at an example of the educational Notebook before you start creating your own project,
+you can check [here](./starter.ipynb).
+
 ## Table of Contents
 
 - [EPFL CS411 Digital Education Jupyter Notebook](#epfl-cs411-digital-education-jupyter-notebook)
