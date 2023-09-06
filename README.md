@@ -9,6 +9,7 @@ you can check [here](./starter.ipynb).
 
 - [EPFL CS411 Digital Education Jupyter Notebook](#epfl-cs411-digital-education-jupyter-notebook)
   - [Table of Contents](#table-of-contents)
+  - [Voilà](#voilà)
   - [Handbook](#handbook)
     - [How to Create a Notebook](#how-to-create-a-notebook)
     - [Integrating a Quiz](#integrating-a-quiz)
@@ -17,9 +18,22 @@ you can check [here](./starter.ipynb).
       - [Option Two](#option-two)
     - [Integrating a Video](#integrating-a-video)
     - [Formatting Text](#formatting-text)
-  - [Resources](#resources)
+    - [Resources](#resources)
     - [On our Jupyter Notebooks for Education Website](#on-our-jupyter-notebooks-for-education-website)
     - [In our Documentation](#in-our-documentation)
+
+## Voilà
+
+Voilà is an extension that allows you to turn your Notebook into a web application.
+Using Voilà can limit the editable area of your Notebook to only the interactive elements, and hide the code.
+You can follow the [repo](https://github.com/voila-dashboards/voila) to install it.
+
+To deploy Voilà on your local host, you can `cd` into the directory of your Notebook and run the following command:
+```
+voila [name of your Notebook]
+```
+
+> For more information, you can check Voilà's [documentation](https://voila.readthedocs.io/en/stable/using.html).
 
 ## Handbook
 
@@ -117,7 +131,7 @@ background-color:#F3F3F3;">
 <a href="path-to-notebook.ipynb"/>Text of the link</a>
 ```
 
-## Resources
+### Resources
 
 ### On our Jupyter Notebooks for Education Website
 
